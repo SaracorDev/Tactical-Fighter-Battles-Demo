@@ -1,0 +1,7 @@
+# The playable build lives on GitHub Releases, not in git.
+*.zip
+*.exe
+*.apk
+*.aab
+.DS_Store
+Thumbs.db

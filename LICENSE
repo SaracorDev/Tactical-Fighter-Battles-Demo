@@ -1,0 +1,28 @@
+Tactical Fighter Battles
+Copyright © 2026 BSC Netowkrs. All rights reserved.
+
+The game — the executable, source code, artwork, audio, and the shipped
+JSON catalogs, maps, missions, and other data — is proprietary.
+Source code is not licensed and is not provided with the game.
+
+You MAY:
+  - Play the game for personal, non-commercial use.
+  - Create original add-on content as JSON (new units, weapons, maps,
+    missions, medals, and similar data) for use with the game.
+  - Share those original add-on files with other players.
+
+You MAY NOT:
+  - Copy, redistribute, or sell the game, the executable, the source,
+    the artwork, the audio, or the shipped data.
+  - Reverse engineer the game in order to copy or sell it.
+  - Claim the game or its shipped content as your own.
+  - Charge money for the game, or for a package that includes the game.
+
+Add-on JSON you write is yours. It does not grant you any rights in the
+game. You may not copy shipped catalogs, art, or missions into an add-on
+and call them original.
+
+This license does not grant rights to Godot Engine. The Windows build
+bundles Godot, which is MIT-licensed by its authors.
+
+NO WARRANTY. The game is provided as-is.
