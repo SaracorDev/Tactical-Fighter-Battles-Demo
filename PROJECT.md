@@ -1,5 +1,7 @@
 # Tactical Fighter Battles — Demo
 
+Owner: BSC Networks
+
 This repository hosts the Windows demo download for Tactical Fighter Battles, a turn-based tactical hex wargame. Jet fighters and attack aircraft fight over a hex map with NATO-style counters. It is a board game that runs on a computer, not a flight simulator.
 
 Source code is not in git and is not licensed. The playable build is a GitHub Release asset.
@@ -7,7 +9,7 @@ Source code is not in git and is not licensed. The playable build is a GitHub Re
 ## Files in git
 
 - `README.md` — download and play notes
-- `LICENSE` — all rights reserved (Copyright © 2026 BSC Netowkrs, as written in the file)
+- `LICENSE` — all rights reserved (Copyright © 2026 BSC Networks)
 - `.gitignore` — ignores `*.zip`, `*.exe`, `*.apk`, and `*.aab`; binaries are not committed
 
 ## Release
