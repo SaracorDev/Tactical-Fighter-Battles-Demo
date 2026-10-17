@@ -1,5 +1,7 @@
 # Tactical Fighter Battles — Demo
 
+Owner: BSC Networks
+
 Turn-based tactical hex wargame for Windows. Jet fighters and attack aircraft fight over a hex map with NATO-style counters. This is a board game that runs on a computer, not a flight simulator.
 
 This repository **hosts the Windows demo download**. Source code is not included and is not licensed.
